@@ -1,0 +1,6 @@
+print ("Hello World!")
+print ("Python is the Future of Programming. \nWhat will you do with it?")
+print ("Hello", "World")
+# print ("Hello!", End='')
+# print ("how", "R", "U", "?", sep="-")
+print ("from python")
